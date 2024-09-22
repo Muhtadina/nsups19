@@ -5,4 +5,4 @@ North South University Problem Solvers Bootcamp Season 19. Solutions from the Se
 
 - [Selection Contest Season 19](https://vjudge.net/contest/655124#overview)
 - [Individual Contest : : Week-1](https://vjudge.net/contest/656719#overview)
-- [Week-1 Homework : : Basic Implementation](https://vjudge.net/contest/656823#overview)
+- [Week-1 : : Basic Implementation](https://vjudge.net/contest/656823#overview)
